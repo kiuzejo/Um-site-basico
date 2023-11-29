@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Europa/title>
+
+</head>
+
+<body>
+
+<header>
+<p> O natal está prestes a chegar, enquanto isso, informe-se dos destinos mais espetaculares da Europa para aproveitar a data especial.
+</header>
+
+<div> Zagreb (Croácia) se apresenta como uns dos melhores mercados de natal, comidas típicas do local, ornamentos artesanais e roupas são vendidas por montes, além, a presença do Parque Nacional de Plitvice fornece um lindo lugar de turismo para passar as férias
+
+</body>
+
+</html>
