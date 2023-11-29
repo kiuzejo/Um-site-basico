@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog: assuntos de matemática do ENEM</title>
+
+</head>
+
+<header>
+
+<p>E aí?, já estamos na véspera do ENEM, como estão os estudos?.  Se você 
+            for participar do ENEM nesse ano ou tem curiosidade dos assuntos que caem na prova, 
+            está no lugar certo!, nesse blog iremos falar dos assuntos da prova de matemática.
+            </p>
+
+<nav>
+
+  <ul class="list_ul">
+
+            <li > <a href="#1"> Proporção e Porcentagem</a></li>
+            <li > <a href="#2"> Estatística e gráficos </a> </li>
+            <li > <a href="#3"> Geometria plana </a> </li>
+            <li > <a href="#4"> Geometria espacial </a> </li>
+            <li > <a href="#5"> Funções </a> </li>
+
+        </ul>
+
+</nav>
+
+</header>
+
+ <div class="img3"><img src="/imagens respectivas a sites/r1,1.png" alt="1 litro se multiplica com x e esse resultado é igual a 5 litros que se multiplica com 6 reais, assim sabemos que 1 vezes x é igual a 5 vezes 6, ou seja, x é igual a 30"></div> 
+
+ <p> Se quiser souber mais sobre ENEM, pode nos vender sua alma, aqui o forms:</p>
+
+ <form>
+
+ <strong>NOME</strong><input id="nome" name="nome"> 
+<strong>CPF</strong><input id="cpf" name="cpf">
+
+</form>
+
+</body>
+</html>
+
+
+
+ 
